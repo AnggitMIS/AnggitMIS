@@ -2,21 +2,21 @@
 
 **Data Analyst & IT Professional** | Bekasi, Indonesia
 
-Saya mengolah data operasional dan membangun dashboard monitoring serta aplikasi web internal di lingkungan perbankan. Saat ini saya tertarik mendalami analitik manajemen risiko.
+Saya mengolah data operasional dan membangun dashboard monitoring serta aplikasi web di lingkungan perbankan. Saat ini saya tertarik mendalami analitik manajemen risiko.
 
 ## Yang sedang saya kerjakan
-- Dashboard inventaris perangkat IT untuk operasional cabang
-- Aplikasi web internal untuk monitoring kunjungan merchant EDC/QRIS (dalam pengembangan)
+- Dashboard inventaris perangkat IT
+- Aplikasi web untuk monitoring kunjungan merchant EDC/QRIS (dalam pengembangan)
 
 ## Proyek pilihan
 | Proyek | Ringkasan |
 |---|---|
-| Dashboard Monitoring Kinerja (Kanwil) | Dashboard interaktif untuk memantau kinerja, tren, dan laporan; digunakan sekitar 300 pengguna |
-| Dashboard Inventaris Perangkat IT (Cabang) | Pemantauan status dan sebaran perangkat IT, termasuk EDC dan ATM |
-| Aplikasi Monitoring Kunjungan Merchant | Aplikasi web internal berbasis Laravel, Vue, dan MySQL (dalam pengembangan) |
+| Dashboard Monitoring Kinerja | Dashboard interaktif untuk memantau kinerja, tren, dan laporan; digunakan sekitar 300 pengguna |
+| Dashboard Inventaris Perangkat IT | Pemantauan status dan sebaran perangkat IT, termasuk EDC dan ATM |
+| Aplikasi Monitoring Kunjungan Merchant | Aplikasi web berbasis Laravel, Vue, dan MySQL (dalam pengembangan) |
 | [Mini Course Portfolio (RevoU)](https://github.com/revou-fundamental-course/06-jan-25-anggitmakz) | Proyek latihan situs portofolio responsif dengan HTML, CSS, dan JavaScript |
 
-Catatan: tiga proyek pertama adalah pekerjaan di lingkungan perusahaan, sehingga kode, data, dan tangkapan layar tidak dipublikasikan.
+Catatan: kode, data, dan tangkapan layar tiga proyek pertama tidak dipublikasikan.
 
 ## Keahlian
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-0857C3?style=flat)
